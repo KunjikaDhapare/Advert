@@ -1,0 +1,211 @@
+.car-yellow-strip {
+    background: #f7ca14;
+    /*height: 110px;*/
+    width: 320px;
+    height: 30px;
+    color: #373737;
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Lato';
+    font-size: 14px;
+}
+.car-location {
+    /*height: 110px;*/
+    width: 320px;
+    height: 40px;
+    border-bottom: solid 1px #B2B2B2;
+}
+.car-laocation-style1 {
+    color: #373737;
+    font-family: 'Lato-Regular';
+    font-size: 13px;
+    margin: 0px 0px 0px 43px;
+    line-height: 13px;
+}
+.car-laocation-icon {
+    color: #696969;
+    font-size: 22px;
+    /*line-height: 60px;*/
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.car-name-details {
+    /*height: 110px;*/
+    width: 210px;
+    height: 61px;
+    border-bottom: solid 1px #B2B2B2;
+}
+.car-phone-style {
+    color: #373737;
+    font-family: "Lato-Regular";
+    font-size: 14px;
+    margin: 12px 0 0 60px;
+    position: absolute;
+}
+.car-phone-icon {
+    color: #696969;
+    font-size: 22px;
+    line-height: 33px;
+    margin-left: 10px;
+}
+.car-phone-style {
+    color: #373737;
+    font-family: "Lato-Regular";
+    font-size: 14px;
+    margin: 20px 0 0 60px;
+    position: absolute;
+}
+.port-details {
+    /*height: 110px;*/
+    width: 210px;
+    height: 35px;
+    border-bottom: solid 1px #B2B2B2;
+}
+.ign-style {
+    margin: 8px 0 0 12px;
+}
+.port-style {
+    color: #696969;
+    font-family: 'Lato-Light';
+    font-size: 14px;
+    position: absolute;
+}
+.pow-style {
+    margin: 8px 0 0 60px;
+}
+.ac-style {
+    margin: 8px 0 0 116px;
+}
+.gps-style {
+    margin: 8px 0 0 164px;
+}
+.car-speed {
+    background: none repeat scroll 0 0 #e6e65c;
+    float: left;
+    border-left: solid 1px #B2B2B2;
+    border-bottom: solid 1px #B2B2B2;
+    height: 96px;
+    width: 108px;
+}
+.car-speed-style {
+    color: #373737;
+    font-family: 'Lato-Regular';
+    font-size: 15px;
+    text-align: center;
+    line-height: 0;
+    margin: 20px 0px 0px 0px;
+}
+.car-speed-style1 {
+    color: #373737;
+    font-family: 'Lato-Light';
+    font-size: 35px;
+    text-align: center;
+    margin: 5px 0px 0px 0px;
+}
+.car-speed-style2 {
+    color: #373737;
+    font-family: 'Lato-Regular';
+    font-size: 15px;
+    text-align: center;
+    line-height: 0;
+    margin: 10px 0px 0px 0px;
+}
+.car-status-details {
+    clear: both;
+    border-bottom: solid 1px #B2B2B2;
+}
+.car-status-green {
+    margin-left: 17px;
+    line-height: 31px;
+}
+.car-status-style {
+    color: #696969;
+    font-family: 'Lato-Light';
+    font-size: 14px;
+    position: absolute;
+    margin: 6px 0px 0px 10px;
+}
+.car-icons-four-details {
+    clear: both;
+    /* padding-top: 15px; */
+}
+.car-icons-four {
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 50px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four1 {
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 102px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four2 {
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 154px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four3 {
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 216px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four4 {
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 260px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four-style {
+    color: #696969;
+    font-family: "Lato-Regular";
+    font-size: 10px;
+    margin: 5px 0px 0px 35px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four-style1 {
+    color: #696969;
+    font-family: "Lato-Regular";
+    font-size: 10px;
+    margin: 5px 0px 0px 103px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four-style2 {
+    color: #696969;
+    font-family: "Lato-Regular";
+    font-size: 10px;
+    margin: 5px 0px 0px 135px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four-style3 {
+    color: #696969;
+    font-family: "Lato-Regular";
+    font-size: 10px;
+    margin: 5px 0px 0px 210px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four-style4 {
+    color: #696969;
+    font-family: "Lato-Regular";
+    font-size: 10px;
+    margin: 5px 0px 0px 260px;
+    position: absolute;
+    cursor: pointer;
+}
+.gm-style-iw{
+  left:0px;
+  top:0px;
+  width:382px;
+}
